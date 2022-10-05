@@ -1,8 +1,12 @@
-<img src="header.png"> 
+:skull: Hi, I’m Amparo (she/her), and I'm new here!
 
-👋 Hi, I’m Amparo (she/her)
-:mate: 
-🌱 I’m currently learning JavaScript
+:mate: Made in Argentina
+
+:beach_umbrella: Based in a coastal town in the South West of England, I'm a former UX writer / content designer transitioning into front end (or maybe even full stack, who knows?!)
+
+:woman_technologist: I’m currently learning JavaScript
+
+🌱 Vegan
 
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
