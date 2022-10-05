@@ -1,4 +1,6 @@
-:skull: Hi, I’m Amparo (she/her), and I'm new here!
+### Hi there, I’m Amparo and I'm new here!
+
+Some facts about me:
 
 :mate: Made in Argentina
 
@@ -7,7 +9,6 @@
 :woman_technologist: I’m currently learning JavaScript
 
 🌱 Vegan
-
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
