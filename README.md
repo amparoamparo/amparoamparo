@@ -1,5 +1,7 @@
-👋 Hi, I’m Amparo (she/her)
+<img src="header.png"> 
 
+👋 Hi, I’m Amparo (she/her)
+:mate: 
 🌱 I’m currently learning JavaScript
 
 <!---
