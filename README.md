@@ -4,7 +4,9 @@ Some facts about me:
 
 :mate: Made in Argentina
 
-:beach_umbrella: Based in a coastal town in the South West of England, I'm a former UX writer / content designer transitioning into front end (or maybe even full stack, who knows?!)
+:beach_umbrella: I live in a coastal town in the South West of England
+
+:pencil2: I'm a former UX writer / content designer transitioning into front end
 
 :woman_technologist: I’m currently learning JavaScript
 
