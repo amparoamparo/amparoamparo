@@ -1,18 +1,8 @@
 ### Hi there, I’m Amparo and I'm new here!
 
-Some facts about me:
+[![Generic badge](https://img.shields.io/badge/🌱-VEGAN-green.svg)](#)
+[![Generic badge](https://img.shields.io/badge/FROM-ARGENTINA-lightblue.svg)](#)
 
-:mate: Made in Argentina
-
-:beach_umbrella: I live in a coastal town in the South West of England
-
-:pencil2: I'm a former UX writer / content designer transitioning into front end
-
-:woman_technologist: I’m currently learning JavaScript
-
-🌱 Vegan
-
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,4 +12,12 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+Some facts about me:
+
+:mate: Made in Argentina
+
+:beach_umbrella: I live in a coastal town in the South West of England
+
+:woman_technologist: I'm a former UX writer / content designer transitioning into front end
 --->
