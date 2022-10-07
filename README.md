@@ -2,6 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/🌱-VEGAN-green.svg)](#)
 [![Generic badge](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg)](#)
+[![Generic badge](https://img.shields.io/badge/🏡-MINEHEAD,_UK-pink.svg)](#)
 
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+📍
 Some facts about me:
 
 :mate: Made in Argentina
