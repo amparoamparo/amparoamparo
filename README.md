@@ -1,7 +1,7 @@
 ### Hi there, I’m Amparo and I'm new here!
 
 [![Generic badge](https://img.shields.io/badge/🌱-VEGAN-green.svg)](#)
-[![Generic badge](https://img.shields.io/badge/FROM-ARGENTINA-lightblue.svg)](#)
+[![Generic badge](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg)](#)
 
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
