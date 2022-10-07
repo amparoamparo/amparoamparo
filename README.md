@@ -11,6 +11,8 @@ Some facts about me:
 :woman_technologist: I’m currently learning JavaScript
 
 🌱 Vegan
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
