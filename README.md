@@ -1,5 +1,3 @@
-### Hi there, I’m Amparo and I'm new here!
-
 [![Generic badge](https://img.shields.io/badge/🌱-VEGAN-green.svg)](https://www.vegansociety.com/go-vegan)
 [![Generic badge](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg)](https://en.wikipedia.org/wiki/Argentina)
 [![Generic badge](https://img.shields.io/badge/🏡-MINEHEAD,_UK-pink.svg)](https://en.wikipedia.org/wiki/Minehead)
