@@ -2,6 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg)](https://en.wikipedia.org/wiki/Argentina)
 [![Generic badge](https://img.shields.io/badge/🏡-UNITED_KINGDOM-pink.svg)](https://en.wikipedia.org/wiki/Minehead)
 
+[Say hello 😀](mailto:hello@amparo.ooo?subject=Hello%20from%20GitHub)
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
