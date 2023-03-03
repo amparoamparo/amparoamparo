@@ -2,7 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg)](https://en.wikipedia.org/wiki/Argentina)
 [![Generic badge](https://img.shields.io/badge/🏡-UNITED_KINGDOM-pink.svg)](https://en.wikipedia.org/wiki/Minehead)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=graywhite)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=true&theme=graywhite)](#)
 
 <!---
 amparoamparo/amparoamparo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
