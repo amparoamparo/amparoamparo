@@ -1,6 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/🌱-VEGAN-green.svg)](https://www.vegansociety.com/go-vegan)
 [![Generic badge](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg)](https://en.wikipedia.org/wiki/Argentina)
-[![Generic badge](https://img.shields.io/badge/🏡-UNITED_KINGDOM-pink.svg)](https://en.wikipedia.org/wiki/Minehead)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=true&theme=graywhite)](#)
 
