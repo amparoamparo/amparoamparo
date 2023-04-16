@@ -1,4 +1,4 @@
-# Amparo 💀
+# Hi there, I'm Amparo! 💀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=false&theme=swift&layout=compact)](#)
 
