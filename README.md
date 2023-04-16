@@ -1,8 +1,10 @@
 # Hi there, I'm Amparo! 👩‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=false&theme=swift&layout=compact)](#)
+I make it easy for people to do the thing they want to do.
 
 ## Skills, tools, etc
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amparoamparo&hide_progress=false&theme=swift&layout=compact)](#)
 
 ![Semantic HTML](https://img.shields.io/badge/Semantic_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
