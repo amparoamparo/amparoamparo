@@ -1,4 +1,4 @@
-# Hi there, I'm Amparo! 👩‍💻
+<!-- # Hi there, I'm Amparo! 👩‍💻
 
 I make it easy for people to do the thing they want to do.
 
@@ -30,4 +30,4 @@ I make it easy for people to do the thing they want to do.
 ## Fun facts
 
 [![Vegan](https://img.shields.io/badge/🌱-VEGAN-green.svg?style=for-the-badge&labelColor=f6f8fa)](https://www.vegansociety.com/go-vegan)
-[![Made in Argentina](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg?style=for-the-badge&labelColor=f6f8fa)](https://en.wikipedia.org/wiki/Argentina)
+[![Made in Argentina](https://img.shields.io/badge/MADE_IN-ARGENTINA-lightblue.svg?style=for-the-badge&labelColor=f6f8fa)](https://en.wikipedia.org/wiki/Argentina) -->
