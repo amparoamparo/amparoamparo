@@ -1,3 +1,5 @@
+![Most used languages](https://github-readme-stats-amparo.vercel.app/api/top-langs/?username=amparoamparo&langs_count=6&layout=compact)
+
 <!-- # Hi there, I'm Amparo! 👩‍💻
 
 I make it easy for people to do the thing they want to do.
