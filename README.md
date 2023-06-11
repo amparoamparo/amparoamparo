@@ -63,7 +63,7 @@ With a knack for transforming static designs into living websites, I bridge the 
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## GitHub Stats
+## GitHub stats
 
 [![Most used languages](https://github-readme-stats-amparo.vercel.app/api/top-langs/?username=amparoamparo&langs_count=6&layout=compact)](https://github.com/amparoamparo?tab=repositories)
 
