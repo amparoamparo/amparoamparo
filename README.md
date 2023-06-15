@@ -55,9 +55,10 @@ With a knack for transforming static designs into living websites, I bridge the 
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-fcd15c?logo=googlechrome&logoColor=000&style=for-the-badge)](https://www.google.com/chrome/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)](https://98.js.org/)
 
-<!-- ## GitHub stats
+## GitHub stats
 
- -->
+[![Most used languages](https://github-readme-stats-amparo.vercel.app/api/top-langs/?username=amparoamparo&langs_count=6&layout=compact)](https://github.com/amparoamparo?tab=repositories)
+
 
 ## Connect with me
 
