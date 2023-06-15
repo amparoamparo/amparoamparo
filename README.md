@@ -8,7 +8,7 @@ With a knack for transforming static designs into living websites, I bridge the 
 
 <table><tr><td width="65%">
 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass.
   
 - 📚 Learning [TypeScript](https://www.typescriptlang.org/), [Storybook](https://storybook.js.org/), and [sustainable web design/development](https://sustainablewebdesign.org/).
   
