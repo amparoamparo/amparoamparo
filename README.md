@@ -77,6 +77,6 @@ With a knack for transforming static designs into living websites, I bridge the 
 
 ---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=amparoamparo&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=amparoamparo&&style=for-the-badge)
 
 <!-- ![Most used languages](https://github-readme-stats-amparo.vercel.app/api/top-langs/?username=amparoamparo&langs_count=6&layout=compact) -->
