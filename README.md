@@ -67,11 +67,12 @@ With a knack for transforming static designs into living websites, I bridge the 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=for-the-badge)](https://frontendmentor.io/profile/amparoamparo)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge)](https://freecodecamp.org/amparo)
 
+<!-- 
 ## Support me
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=fff&style=for-the-badge)](https://paypal.me/amparocodes)
 [![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://buymeacoffee.com/amparoamparo)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=fff&style=for-the-badge)](https://ko-fi.com/amparoamparo)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=fff&style=for-the-badge)](https://ko-fi.com/amparoamparo) -->
 
 ---
 
