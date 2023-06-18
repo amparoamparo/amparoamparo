@@ -6,30 +6,7 @@ With a knack for transforming static designs into living websites, I bridge the 
 
 ## Get to know me
 
-<table><tr><td width="50%">
-
-- 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass.
-  
-- 📚 Learning [TypeScript](https://www.typescriptlang.org/), [Storybook](https://storybook.js.org/), and [sustainable web design/development](https://sustainablewebdesign.org/).
-  
-- 💭 Thinking about getting the [CPACC](https://www.accessibilityassociation.org/s/certified-professional) certification to broaden my knowledge and skills in accessibility.
-  
-- 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos), and I have a background in UX, content, and localisation.
-  
-- ✨ Outside of work, you'll find me playing the piano and singing, or baking and decorating vegan cakes.
-  
-- 🌱 Vegan, for the animals and for the Earth.
-
-</td>
-<td width="50%">
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=amparozeballos&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</div>
-</td>
-</tr>
-</table>  
-
-## My favourite technologies
+### My favourite technologies
 
 [![Semantic HTML](https://img.shields.io/badge/Semantic_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://web.dev/learn/html/semantic-html/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://web.dev/learn/css/)
@@ -54,6 +31,35 @@ With a knack for transforming static designs into living websites, I bridge the 
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-fcd15c?logo=googlechrome&logoColor=000&style=for-the-badge)](https://www.google.com/chrome/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)](https://98.js.org/)
+
+### What I'm up to and who I am
+
+- 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass.
+  
+- 📚 Learning [TypeScript](https://www.typescriptlang.org/), [Storybook](https://storybook.js.org/), and [sustainable web design/development](https://sustainablewebdesign.org/).
+  
+- 💭 Thinking about getting the [CPACC](https://www.accessibilityassociation.org/s/certified-professional) certification to broaden my knowledge and skills in accessibility.
+  
+- 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos), and I have a background in UX, content, and localisation.
+  
+- ✨ Outside of work, you'll find me playing the piano and singing, or baking and decorating vegan cakes.
+  
+- 🌱 Vegan, for the animals and for the Earth.
+
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=amparozeballos&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /> -->
+
+### What I'm listening to
+
+<table>
+<tr>
+<td>
+  
+![What I'm listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=amparozeballos&cover_image=true&theme=natemoo-re&show_offline=false&interchange=true)
+
+</td>
+</tr>
+</table>
+
 
 ## GitHub stats
 
