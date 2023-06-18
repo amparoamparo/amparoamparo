@@ -6,7 +6,7 @@ With a knack for transforming static designs into living websites, I bridge the 
 
 ## Get to know me
 
-<table><tr><td width="65%">
+<table><tr><td width="50%">
 
 - 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass.
   
