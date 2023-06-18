@@ -50,7 +50,7 @@ With a knack for transforming static designs into living websites, I bridge the 
 
 ### What I'm listening to
 
-<table>
+<table valign="center">
 <tr>
 <td>
   
