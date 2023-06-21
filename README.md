@@ -2,7 +2,7 @@
 
 I'm an Argentine-born frontend developer based in the UK.
 
-With a knack for transforming static designs into living websites, I bridge the gap between UX/UI design and software engineering.
+I bridge the gap between software development and UX/UI design by translating designs into living websites. I'm very passionate about semantic HTML and accessibility, and I could spend hours playing around with CSS.
 
 ## Get to know me
 
