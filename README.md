@@ -6,6 +6,22 @@ I bridge the gap between software development and UX/UI design by translating de
 
 ## Get to know me
 
+### What I'm up to and who I am
+
+- 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass. You can follow along with my progress and learn more about my development journey on the [portfolio repo's README](https://github.com/amparoamparo/portfolio).
+  
+- 🎓 Learning sustainable web design/development.
+  
+- 💭 Thinking about getting the [CPACC](https://www.accessibilityassociation.org/s/certified-professional) certification to broaden my knowledge and skills in accessibility.
+  
+- 📚 Reading "Designing for Emotion" by Aarron Walter, and the classic "Responsive Web Design" by Ethan Marcotte.
+  
+- 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos) for a mobile trivia game with over 150M annual users, where I dealt with all content matters and supervised localisation in 20+ languages.
+  
+- ✨ Outside of work, you'll find me playing the piano and singing, or baking and decorating vegan cakes.
+  
+- 🌱 Vegan, for the animals and for the Earth.
+
 ### My favourite technologies
 
 [![Semantic HTML](https://img.shields.io/badge/Semantic_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://web.dev/learn/html/semantic-html/)
@@ -31,22 +47,6 @@ I bridge the gap between software development and UX/UI design by translating de
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-fcd15c?logo=googlechrome&logoColor=000&style=for-the-badge)](https://www.google.com/chrome/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)](https://98.js.org/)
-
-### What I'm up to and who I am
-
-- 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass.
-  
-- 🎓 Learning sustainable web design/development.
-  
-- 💭 Thinking about getting the [CPACC](https://www.accessibilityassociation.org/s/certified-professional) certification to broaden my knowledge and skills in accessibility.
-  
-- 📚 Reading "Designing for Emotion" by Aarron Walter, and the classic "Responsive Web Design" by Ethan Marcotte.
-  
-- 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos) for a mobile trivia game with over 150M annual users, where I dealt with all content matters and supervised localisation in 20+ languages.
-  
-- ✨ Outside of work, you'll find me playing the piano and singing, or baking and decorating vegan cakes.
-  
-- 🌱 Vegan, for the animals and for the Earth.
 
 <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=amparozeballos&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /> -->
 
