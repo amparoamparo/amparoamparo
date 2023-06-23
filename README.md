@@ -36,11 +36,13 @@ I bridge the gap between software development and UX/UI design by translating de
 
 - 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass.
   
-- 📚 Learning [TypeScript](https://www.typescriptlang.org/), [Storybook](https://storybook.js.org/), and [sustainable web design/development](https://sustainablewebdesign.org/).
+- 🎓 Learning sustainable web design/development.
   
 - 💭 Thinking about getting the [CPACC](https://www.accessibilityassociation.org/s/certified-professional) certification to broaden my knowledge and skills in accessibility.
   
-- 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos), and I have a background in UX, content, and localisation.
+- 📚 Reading "Designing for Emotion" by Aarron Walter, and the classic "Responsive Web Design" by Ethan Marcotte.
+  
+- 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos) for a mobile trivia game with over 150M annual users, where I dealt with all content matters and supervised localisation in 20+ languages.
   
 - ✨ Outside of work, you'll find me playing the piano and singing, or baking and decorating vegan cakes.
   
