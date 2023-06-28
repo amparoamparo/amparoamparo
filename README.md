@@ -7,8 +7,6 @@ I bridge the gap between software development and UX/UI design by translating de
 ## Get to know me
 
 ### What I'm up to and who I am
-
-- 🔭 I’m currently working on my portfolio website, using Astro, with React and Sass. You can follow along with my progress and learn more about my development journey on the [portfolio repo's README](https://github.com/amparoamparo/portfolio).
   
 - 🎓 Learning sustainable web design/development.
   
