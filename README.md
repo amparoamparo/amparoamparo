@@ -8,11 +8,11 @@ I bridge the gap between software development and UX/UI design by translating de
 
 ### What I'm up to and who I am
   
-- 🎓 Learning sustainable web design/development.
+- 🚧 I'm currently working on my portfolio website, using Astro, React, JavaScript and Sass/SCSS. You can [view it live](https://amparo.codes) or [check its progress on the README](https://github.com/amparoamparo/portfolio).
+
+- 🎓 I recently completed a course on Sustainable Web Design & Development.
   
 - 💭 Thinking about getting the [CPACC](https://www.accessibilityassociation.org/s/certified-professional) certification to broaden my knowledge and skills in accessibility.
-  
-- 📚 Reading "Designing for Emotion" by Aarron Walter, and the classic "Responsive Web Design" by Ethan Marcotte.
   
 - 🦄 I used to be a [UX writer](https://linkedin.com/in/amparozeballos) for a mobile trivia game with over 150M annual users, where I dealt with all content matters and supervised localisation in 20+ languages.
   
@@ -39,7 +39,6 @@ I bridge the gap between software development and UX/UI design by translating de
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Figma](https://img.shields.io/badge/Figma-a751f7?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/ui-design-tool/)
-[![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff&style=for-the-badge)](https://linear.app/)
 [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge)](https://www.atlassian.com/software/confluence/resources/guides)
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
