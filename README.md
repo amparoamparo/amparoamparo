@@ -68,10 +68,10 @@ I bridge the gap between software development and UX/UI design by translating de
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@amparo.codes?subject=Hello%20from%20GitHub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/amparozeballos)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/amparoamparo)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=for-the-badge)](https://frontendmentor.io/profile/amparoamparo)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge)](https://freecodecamp.org/amparo)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/amparoamparo) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/amparozeballos) -->
 
 <!-- 
 ## Support me
