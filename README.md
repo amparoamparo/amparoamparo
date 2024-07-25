@@ -1,16 +1,5 @@
 # Hi there 👋🏼, I'm Amparo 👩‍💻
 
-## What I'm listening to
-
-<table>
-<tr valign="center">
-<td>
-
-</td>
-</tr>
-</table>
-
-
 ## GitHub stats
 
 [![Most used languages](https://github-readme-stats-amparo.vercel.app/api/top-langs/?username=amparoamparo&langs_count=6&layout=compact)](https://github.com/amparoamparo?tab=repositories)
