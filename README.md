@@ -5,8 +5,6 @@
 <table>
 <tr valign="center">
 <td>
-  
-[![What I'm listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=amparozeballos&cover_image=true&theme=natemoo-re&show_offline=false&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=amparozeballos&redirect=true)
 
 </td>
 </tr>
