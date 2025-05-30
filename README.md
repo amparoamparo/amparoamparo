@@ -7,7 +7,7 @@
 
 ## Connect with me
 
-[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@amparo.codes?subject=Hello%20from%20GitHub)
+<!-- [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@amparo.codes?subject=Hello%20from%20GitHub) -->
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=for-the-badge)](https://frontendmentor.io/profile/amparoamparo)
 
 
