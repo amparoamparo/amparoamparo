@@ -1,8 +1,8 @@
 # Hi there 👋🏼👩‍💻
 
-I'm Amparo, an Argentine-born Content Strategist with a passion for frontend development and data analytics.
+Argentine-born ✨ data person ✨
 
-Powered by [mate](https://en.wikipedia.org/wiki/Mate_(drink)) 🧉.
+Powered by [mate](https://en.wikipedia.org/wiki/Mate_(drink)) 🧉 and drums 🥁.
 
 ## GitHub stats
 
