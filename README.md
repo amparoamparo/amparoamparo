@@ -1,6 +1,6 @@
-# Hi there 👋🏼👩‍💻
+<!-- # Hi there 👋🏼👩‍💻
 
-Argentine-born ✨ data person ✨
+Argentine-born ✨ data person ✨-->
 
 Powered by [mate](https://en.wikipedia.org/wiki/Mate_(drink)) 🧉 and drums 🥁.
 
